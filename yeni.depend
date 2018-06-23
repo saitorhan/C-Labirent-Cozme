@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1306175404 source:d:\labirent\yeni\main.c
+	<stdio.h>
+	<stdlib.h>
+
